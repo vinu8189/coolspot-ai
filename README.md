@@ -154,7 +154,7 @@ It demonstrates how far you can go with **good prompting + LLM reasoning alone**
 
 ## 📸 Screenshot
 
-_(Add Streamlit UI screenshot here for LinkedIn impact)_
+![CoolSpot AI Demo](assets/Landing page.png)
 
 ---
 
