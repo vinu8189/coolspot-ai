@@ -156,6 +156,9 @@ It demonstrates how far you can go with **good prompting + LLM reasoning alone**
 
 ![CoolSpot AI Demo](assets/landing-page.png)
 
+
+![CoolSpot AI Demo](assets/working-page.png)
+
 ---
 
 ## 👨‍💻 Author
